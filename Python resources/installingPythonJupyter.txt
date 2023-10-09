@@ -1,0 +1,37 @@
+-For the purposes of sharing resources, code and life.
+
+1. To install Python on day 1 following code.
+
+sudo apt-get update
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install python3.6
+sudo apt install python3.6-dev
+
+-at this point python3.6 should be installed. to check type python3.6 and press enter in terminal
+
+2. foll lines install pip3.6. pip3.6 is needed to install jupyter
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3.6 get-pip.py
+
+-at this point pip3.6 should be installed. check by typing pip in terminal and press tab twice. 
+don't press enter
+
+
+3 . installing jupyter
+sudo pip3.6 install jupyter --ignore-installed six
+
+
+4. run jupyter
+jupyter notebook
+-in first python notebook
+import sys
+print(sys.version_info[:])
+
+
+-jupyter will open up at http:localhost:8888/tree in browser mostly mozilla on ubuntu.
+
+
+(not to be done day 1)
+5. installing libraries
+sudo pip3.6 install matplotlib (put sudo and pip3.6) 

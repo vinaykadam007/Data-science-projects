@@ -1,0 +1,38 @@
+python 2018
+http://cs231n.github.io/python-numpy-tutorial/
+https://www.kaggle.com/egrinstein/20-years-of-games/data
+https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+http://www.statisticshowto.com/what-is-correlation/
+http://cs231n.github.io/python-numpy-tutorial/
+https://github.com/kasiarachuta/Blog
+https://medium.com/@kasiarachuta/basic-statistics-in-pandas-dataframe-594208074f85
+
+https://www.dataquest.io/blog/pandas-python-tutorial/
+https://pandas.pydata.org/pandas-docs/stable/missing_data.html
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+https://stackoverflow.com/questions/36709165/python-object-of-type-response-has-no-len
+https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe
+https://www.hdwallpapers.in/animals__birds-desktop-wallpapers.html
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
+
+http://dataquestio.github.io/web-scraping-pages/ids_and_classes.html
+http://www.compjour.org/warmups/govt-text-releases/intro-to-bs4-lxml-parsing-wh-press-briefings/
+
+
+clear and filling values in python data set:
+https://pandas.pydata.org/pandas-docs/stable/missing_data.html
+
+ign dataset pandas tutorial can be used as base:
+https://www.dataquest.io/blog/pandas-python-tutorial/
+
+bs4 images site:
+https://www.jpl.nasa.gov/spaceimages/searchwp.php?category=featured
+https://www.hdwallpapers.in/animals__birds-desktop-wallpapers.html
+
+bs4 tutorial:
+http://www.compjour.org/warmups/govt-text-releases/intro-to-bs4-lxml-parsing-wh-press-briefings/
+https://www.dataquest.io/blog/web-scraping-tutorial-python/
+
+pandas ex jk:
+https://github.com/guipsamora/pandas_exercises
