@@ -4,10 +4,10 @@ Welcome to the Machine Learning Algorithms and Datasets Showcase! This GitHub pr
 
 ## Key Features
 ### 1. Diverse Algorithms
-Association Learning: Discover associations and patterns within datasets.
-Clustering (K-means): Group data points into clusters for insights.
-Classification: Employ Decision Trees, Support Vector Machines (SVM), Naive Bayes, and Perceptron for classification tasks.
-Regression: Utilize Linear, Polynomial, and Logistic Regression for predictive modeling.
+#### Association Learning: Discover associations and patterns within datasets.
+#### Clustering (K-means): Group data points into clusters for insights.
+#### Classification: Employ Decision Trees, Support Vector Machines (SVM), Naive Bayes, and Perceptron for classification tasks.
+#### Regression: Utilize Linear, Polynomial, and Logistic Regression for predictive modeling.
 
 ### 2. Varied Datasets
 Explore a rich collection of datasets, including but not limited to:
